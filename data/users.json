@@ -1,0 +1,36 @@
+{
+    "users":[
+        {
+            "id": 1,
+            "name": "Lakshya",
+            "email": "",
+            "password": "lakshya123",
+            "role": "admin"
+            }
+        ,{
+            "id": 2,
+            "name": "Dhanush",
+            "email": "",
+            "password": "dhanush123",
+            "role": "user"
+        },{
+            "id": 3,
+            "name": "Sakshi",
+            "email": "",
+            "password": "sakshi123",
+            "role": "user"
+        },{
+            "id": 4,
+            "name": "Rohan",
+            "email": "",
+            "password": "rohan123",
+            "role": "user"
+        },{
+            "id": 5,
+            "name": "Priya",
+            "email": "",
+            "password": "priya123",
+            "role": "user" 
+        }
+        ]
+}
